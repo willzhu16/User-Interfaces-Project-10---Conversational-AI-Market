@@ -1,3 +1,11 @@
+Hello! This is project 10 from my User Interfaces Course I took Spring 2024. 
+
+This project utilizes Wit.ai to create a conversational AI chatbot that helps users purchase fictional items. 
+
+
+
+https://github.com/user-attachments/assets/023e6a46-95eb-4333-a560-0062a9d8451b
+
 
 # CS571-S24 HW10: BadgerMart (Chat!)
 
